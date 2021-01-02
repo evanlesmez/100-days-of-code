@@ -1,14 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
+<!--  EXAMPLE
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
@@ -16,15 +8,19 @@
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](http://www.example.com) -->
 
+## Plan
 
-### Day 1: June 27, Monday
+I will complete the [Vegan Hacktivist](https://gist.github.com/GRardB/7e2990bbea8c2e50e2b501b712d8c169) to join the team and help promote the philosophy of veganism.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 1: January 01, Friday
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Got through section 9 of laravel from scratch laracast to learn laravel framework. 
+
+**Thoughts** Got a little stuck on the section about controllers but it was because the video was outdated. Looked through documentation to find that the syntax was updated since a year ago for routing with controllers. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+https://github.com/evanlesmez/learn-laravel-from-scratch
+https://laravel.com/docs/8.x/routing#basic-routing
+https://laracasts.com/series/laravel-6-from-scratch
