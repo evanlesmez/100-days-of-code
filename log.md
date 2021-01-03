@@ -24,3 +24,13 @@ I will complete the [Vegan Hacktivist](https://gist.github.com/GRardB/7e2990bbea
 https://github.com/evanlesmez/learn-laravel-from-scratch
 https://laravel.com/docs/8.x/routing#basic-routing
 https://laracasts.com/series/laravel-6-from-scratch
+
+### Day 2: January 02, Saturday 
+
+**Today's Progress**: Hooked the post controller up to mysql database hosted on localhost within homestead environment. Used artisan to manage migrations and models. 
+
+**Thoughts** A little tricky getting mysql auth credentials sorted but figured out the homestead defaults via one of the links below. Very similar flow to Django development. 
+
+**Link(s) to work**
+https://github.com/evanlesmez/learn-laravel-from-scratch
+https://laracasts.com/series/laravel-6-from-scratch/episodes/11?autoplay=true
