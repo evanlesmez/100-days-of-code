@@ -34,3 +34,13 @@ https://laracasts.com/series/laravel-6-from-scratch
 **Link(s) to work**
 https://github.com/evanlesmez/learn-laravel-from-scratch
 https://laracasts.com/series/laravel-6-from-scratch/episodes/11?autoplay=true
+
+### Day 3: January 03, Sunday 
+
+**Today's Progress**: Made it through section 4 of the laracast Laravel from Scratch. Created an MVC for Articles and dynamically rendered content into php blade layouts and views.
+
+**Thoughts** Using webpack with the laravel and mix and node.js was neat. Seems like a feature I was missing when working with flask and bundling non-vanilla js
+
+**Link(s) to work**
+https://github.com/evanlesmez/learn-laravel-from-scratch
+https://laracasts.com/series/laravel-6-from-scratch/episodes/20?autoplay=true
