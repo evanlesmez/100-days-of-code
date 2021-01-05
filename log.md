@@ -44,3 +44,12 @@ https://laracasts.com/series/laravel-6-from-scratch/episodes/11?autoplay=true
 **Link(s) to work**
 https://github.com/evanlesmez/learn-laravel-from-scratch
 https://laracasts.com/series/laravel-6-from-scratch/episodes/20?autoplay=true
+
+### Day 4: January 04, Monday 
+
+**Today's Progress**: Created articles RESTful actions and got through a few more lessons. 
+
+**Thoughts** Struggled today. Coding after working 8-9 hours of coding for work is tough. 
+
+**Link(s) to work**
+https://github.com/evanlesmez/learn-laravel-from-scratch
