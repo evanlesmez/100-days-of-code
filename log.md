@@ -53,3 +53,12 @@ https://laracasts.com/series/laravel-6-from-scratch/episodes/20?autoplay=true
 
 **Link(s) to work**
 https://github.com/evanlesmez/learn-laravel-from-scratch
+
+### Day 5: January 05, Tuesday 
+
+**Today's Progress**: Created a raspberry pi 3 access point
+
+**Thoughts** Pretty neat you can create access point in a 30 minutes to an hour with a raspberry pi 
+
+**Link(s) to work**
+https://www.raspberrypi.org/documentation/configuration/wireless/access-point-routed.md
