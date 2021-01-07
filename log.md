@@ -62,3 +62,13 @@ https://github.com/evanlesmez/learn-laravel-from-scratch
 
 **Link(s) to work**
 https://www.raspberrypi.org/documentation/configuration/wireless/access-point-routed.md
+
+### Day 6, January 06, Wednessday
+
+**Today's Progress**: Made it through the forms section on laravel from scratch
+
+**Thoughts** Neat that laravel has so many functions available for blade templates to consume but it is not a very explicit pattern.
+
+**Link(s) to work**
+https://helpdeskgeek.com/linux-tips/terminal-tricks-use-the-terminal-as-an-alarm-clock/
+
