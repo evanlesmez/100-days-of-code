@@ -72,3 +72,11 @@ https://www.raspberrypi.org/documentation/configuration/wireless/access-point-ro
 **Link(s) to work**
 https://helpdeskgeek.com/linux-tips/terminal-tricks-use-the-terminal-as-an-alarm-clock/
 
+### Day 7, January 07, Thursday 
+
+**Today's Progress**: Controllers refactored. Factories for users and articles. Route naming for avoiding hardcodes. 
+
+**Thoughts** Factories are super usefl. Think laravel is kinda of tricky to track down which classes come form where. 
+
+**Link(s) to work**
+https://laracasts.com/series/laravel-6-from-scratch/episodes/30?autoplay=true
