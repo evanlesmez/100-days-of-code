@@ -80,3 +80,12 @@ https://helpdeskgeek.com/linux-tips/terminal-tricks-use-the-terminal-as-an-alarm
 
 **Link(s) to work**
 https://laracasts.com/series/laravel-6-from-scratch/episodes/30?autoplay=true
+
+### Day 8, January 08, Friday 
+
+**Today's Progress**: Created a pivot table migration for articles and tags to be conjoined. 
+
+**Thoughts** php arrow syntax is weird. For accessing member a -> is used but for array mapping it is => 
+
+**Link(s) to work**
+https://laracasts.com/series/laravel-6-from-scratch/episodes/32?autoplay=true
