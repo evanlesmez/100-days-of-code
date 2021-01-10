@@ -89,3 +89,12 @@ https://laracasts.com/series/laravel-6-from-scratch/episodes/30?autoplay=true
 
 **Link(s) to work**
 https://laracasts.com/series/laravel-6-from-scratch/episodes/32?autoplay=true
+
+### Day 9, January 09, Saturday 
+
+**Today's Progress**: Finished article tagging. Learned about core concepts like service containers and csrf attacks. Created an authentication system with artisan cli. 
+
+**Thoughts** A little unclear on how important some of the collection and service container aspects are.  
+
+**Link(s) to work**
+https://laracasts.com/series/laravel-6-from-scratch/episodes/38?autoplay=true
