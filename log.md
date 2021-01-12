@@ -98,3 +98,21 @@ https://laracasts.com/series/laravel-6-from-scratch/episodes/32?autoplay=true
 
 **Link(s) to work**
 https://laracasts.com/series/laravel-6-from-scratch/episodes/38?autoplay=true
+
+### Day 10, January 10, Sunday 
+
+**Today's Progress**: learned facades and service providers
+
+**Thoughts** pretty confused but understand laravel a little bit better
+
+**Link(s) to work**
+https://laracasts.com/series/laravel-6-from-scratch/episodes/42?autoplay=true
+
+### Day 11, January 11, Monday 
+
+**Today's Progress**: Mail templating and service tested using Mailtrap
+
+**Thoughts** Get a lot out of the box with mailing components
+
+**Link(s) to work**
+https://laracasts.com/series/laravel-6-from-scratch/episodes/45?autoplay=true
