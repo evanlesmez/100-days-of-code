@@ -116,3 +116,50 @@ https://laracasts.com/series/laravel-6-from-scratch/episodes/42?autoplay=true
 
 **Link(s) to work**
 https://laracasts.com/series/laravel-6-from-scratch/episodes/45?autoplay=true
+
+### Day 12, January 12, Tuesday,
+
+**Today's Progress**:Integrated Laravel notifications that get saved to a database and sent to email. 
+
+Bash script for hour timer:
+
+date +%H:%M 
+sleep 1h && mplayer still-alive.mp3
+
+Date is useful here for keeping track of when you started.
+
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 13, January 13, Wednessday
+
+**Today's Progress**:Create events and listeners. Up through the authorization section of Laravel from scratch.
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 14, January 14, Thursday
+
+**Today's Progress**:Started a new Laravel project for test driven development series. Was crashing hard today.
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 15, January 15, Friday
+
+**Today's Progress**: Worked on new section of laravel from scratch. Had to build MVC for conversations and replies. Got really stuck with pivot tables but figured out I did not need one in the end because the relationship between a conversation and reply was not many to many. 
+**Link(s) to work**
+
+### Day 16, January 16, Saturday
+
+**Today's Progress**: Fixed some of the problems from the continuation of yesterdays work.  
+
+**Thoughts** Oops forgot to log the las few days 
+
+**Link(s) to work**
+https://github.com/evanlesmez/learn-laravel-from-scratch
+
