@@ -163,3 +163,12 @@ Date is useful here for keeping track of when you started.
 **Link(s) to work**
 https://github.com/evanlesmez/learn-laravel-from-scratch
 
+### Day 17, January 17, Tuesday 
+
+**Today's Progress**: Factory and seeder for conversations 
+
+**Thoughts** Missed 2 days because I was spending all my time talking to a girl. I would say it was worth it.
+
+**Link(s) to work**
+https://github.com/evanlesmez/learn-laravel-from-scratch
+
