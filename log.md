@@ -163,11 +163,29 @@ Date is useful here for keeping track of when you started.
 **Link(s) to work**
 https://github.com/evanlesmez/learn-laravel-from-scratch
 
-### Day 17, January 17, Tuesday 
+### Day 17, January 19, Tuesday 
 
 **Today's Progress**: Factory and seeder for conversations 
 
 **Thoughts** Missed 2 days because I was spending all my time talking to a girl. I would say it was worth it.
+
+**Link(s) to work**
+https://github.com/evanlesmez/learn-laravel-from-scratch
+
+### Day 18, January 20, Wednessday 
+
+**Today's Progress**: Unity game with my brother.
+
+**Thoughts** 
+
+**Link(s) to work**
+https://github.com/evanlesmez/learn-laravel-from-scratch
+
+### Day 19, January 21, Thurdsay 
+
+**Today's Progress**: Fix my seeder for conversation migration and factory to allow for better database seeding for testing ui. 
+
+**Thoughts**
 
 **Link(s) to work**
 https://github.com/evanlesmez/learn-laravel-from-scratch
